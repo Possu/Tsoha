@@ -1,0 +1,47 @@
+header h1 {
+    color: #D74B4B;
+}
+header h2 {
+    color: #475F77;
+}
+body {
+    background: #DCDDD8;
+}
+
+header nav ul {
+    font-size: 1.2em;
+    height: 40px;
+    line-height: 30px;
+    margin: 0 auto 2em auto;
+
+    background-color: 	#354B5E;
+
+    list-style-type: none;
+
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+header nav ul li {
+    float: left; 
+    display: inline; 
+}
+
+header nav ul li a {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 5px 1.5em;
+    text-decoration: none;
+}
+
+#kysymys {
+    color: #D74B4B;
+}
+#vastaus {
+    color: #475F77;
+}
+#laatikko {
+    width: 500px;
+   height: 120px;
+}
